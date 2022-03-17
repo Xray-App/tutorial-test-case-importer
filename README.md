@@ -1,4 +1,4 @@
-# tutorial-test-case-importer
+# Tutorials for importing tests to Xray using Test Case Importer
 [![license](https://img.shields.io/badge/License-BSD%203--Clause-green.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/Xray-App/community)
 
