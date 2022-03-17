@@ -1,0 +1,9 @@
+﻿Issue Id;Issue key;Test type;Test Summary;Test Priority;Component;Action;Data;Result
+1;EWB-59;Manual;Test 1 for user story WEB-1 Changed;High;"Visits;Pets";Go to login page;;
+1;;Manual;;;Visits;Enter username;peter;
+1;;Manual;;;Visits;Enter password;pwrd123;
+1;;Manual;;;Visits;Click login button;;User successfully logged in with new message
+2;EWB-60;Manual;Test 2 for user story WEB-1 Changed;High;Visits;Go to login page;;
+2;;Manual;;;Visits;Enter username;peter;
+2;;Manual;;;Visits;Enter password;abc123;
+2;;Manual;;;Visits;Click login button;;User logged in fails with another message

@@ -1,0 +1,14 @@
+﻿Issue Id;Issue key;Issue type;Test type;Test Summary;Test Priority;Component;Action;Data;Result;Project key;Test Set;Precondition;Precondition type
+1;;precondition;;Must access application page in logout state;Highest;Visits;;;;EWB;;;Manual
+2;;precondition;;Must clear cookies;Highest;Visits;;;;EWB;;;Manual
+3;;testset;;Test set for Login;High;Visits;;;;EWB;;;
+4;;test;Manual;Test 1 for user story WEB-1;High;Visits;"Go to 
+login page";;;EWB;3;"1;2";
+4;;;Manual;;;Visits;Enter username;peter;;;;;
+4;;;Manual;;;Visits;Enter password;pwrd123;;;;;
+4;;;Manual;;;Visits;Click login button;;User successfully logged in;;;;
+5;;test;Manual;Test 2 for user story WEB-1;High;Visits;"Go to 
+login page";;;EWB;3;"1;2";
+5;;;Manual;;;Visits;Enter username;peter;;;;;
+5;;;Manual;;;Visits;Enter password;abc123;;;;;
+5;;;Manual;;;Visits;Click login button;;User logged in fails with message;;;;

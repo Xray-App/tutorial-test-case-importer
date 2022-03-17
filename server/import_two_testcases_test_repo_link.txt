@@ -1,0 +1,22 @@
+{
+  "projectKey" : {
+    "project" : "COM"
+  },
+  "field" : {
+    "Requirement" : "link-10200",
+    "Test Summary" : "summary",
+    "Action" : "Action",
+    "Test Repo Path" : "customfield_12100",
+    "Test Priority" : "priority",
+    "Data" : "Data",
+    "﻿TCID" : "Test Case Identifier",
+    "Component" : "components",
+    "Result" : "Expected Result"
+  },
+  "link" : { },
+  "projectSelection" : {
+    "project" : "true"
+  },
+  "projectName" : { },
+  "value" : { }
+}

@@ -1,0 +1,10 @@
+﻿Issue Id;Issue key;Test type;Test Summary;Test Priority;Component;Action;Data;Result;Unstructured definition;Gherkin definition
+1;;Manual;Test 1 for user story WEB-1;High;Visits;Go to login page;;;;
+1;;Manual;;;Visits;Enter username;peter;;;
+1;;Manual;;;Visits;Enter password;pwrd123;;;
+1;;Manual;;;Visits;Click login button;;User successfully logged in;;
+2;;Generic;Test 2 for user story WEB-1;Low;Visits;;;;FailedLogin;
+3;;Cucumber;Addition validations;Low;Visits;;;;;"Given I have entered 1 into the calculator
+And I have entered 2 into the calculator
+When I press Add
+Then the result should be 3 on the screen"

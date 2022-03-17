@@ -1,0 +1,23 @@
+{
+  "projectKey" : {
+    "project" : "COM"
+  },
+  "field" : {
+    "Comment" : "comment",
+    "Test Summary" : "summary",
+    "Action" : "Action",
+    "Attach" : "attachment",
+    "Test Priority" : "priority",
+    "Data" : "Data",
+    "﻿TCID" : "Test Case Identifier",
+    "Attach Steps" : "Step Attachments",
+    "Component" : "components",
+    "Result" : "Expected Result"
+  },
+  "link" : { },
+  "projectSelection" : {
+    "project" : "true"
+  },
+  "projectName" : { },
+  "value" : { }
+}

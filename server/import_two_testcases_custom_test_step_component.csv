@@ -1,0 +1,9 @@
+﻿TCID;Test Summary;Test Priority;Component;Component;Action;Data;Result;Browser
+1;Test 1 for user story WEB-1;High;Interface;Account;Go to login page;;;Firefox
+1;;;;;Enter username;peter;;
+1;;;;;Enter password;pwrd123;;
+1;;;;;Click login button;;User successfully logged in;
+2;Test 2 for user story WEB-1;Highest;Interface;Account;Go to login page;;;Chrome
+2;;;;;Enter username;peter;;
+2;;;;;Enter password;abc123;;
+2;;;;;Click login button;;User logged in fails with message;

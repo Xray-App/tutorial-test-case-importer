@@ -1,0 +1,9 @@
+﻿TCID;Test Summary;Test Priority;Component;Component;Action;Data;Result;Comment;Attach Steps;Attach
+1;Test 1 for user story WEB-1;High;User Interface;Business Layer;Go to login page;;;"01/01/2012 10:10;Admin; This comment works";;https://docs.getxray.app/download/attachments/37062075/image2022-2-15_18-9-33.png
+1;;;;;Enter username;peter;;;;
+1;;;;;Enter password;pwrd123;;;;
+1;;;;;Click login button;;User successfully logged in;;;
+2;Test 2 for user story WEB-1;Highest;User Interface;Business Layer;Go to login page;;;"01/01/2012 10:10;Admin; This comment also works";;
+2;;;;;Enter username;peter;;;https://docs.getxray.app/download/attachments/37062075/image2022-2-15_18-9-33.png;
+2;;;;;Enter password;abc123;;;https://docs.getxray.app/download/attachments/37062075/image2022-2-15_18-9-33.png;
+2;;;;;Click login button;;User logged in fails with message;;https://docs.getxray.app/download/attachments/37062075/image2022-2-15_18-9-33.png;
