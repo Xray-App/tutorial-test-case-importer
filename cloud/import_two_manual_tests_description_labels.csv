@@ -1,0 +1,9 @@
+﻿Issue Id;Issue key;Test type;Test Summary;Test Priority;Component;Action;Data;Result;Labels
+1;;Manual;Test 1 for user story WEB-1;High;Visits;Go to login page;;;"Label1"
+1;;Manual;;;Visits;Enter username;peter;;
+1;;Manual;;;Visits;Enter password;pwrd123;;
+1;;Manual;;;Visits;Click login button;;User successfully logged in;
+2;;Manual;Test 2 for user story WEB-1;High;Visits;Go to login page;;;"Label2;Label3"
+2;;Manual;;;Visits;Enter username;peter;;
+2;;Manual;;;Visits;Enter password;abc123;;
+2;;Manual;;;Visits;Click login button;;User logged in fails with message;
