@@ -6,8 +6,8 @@
 Here you can find the examples that showcase how to import Test Cases using the Test Case Importer tool available in [Xray Test Management](https://www.getxray.app/) on Jira. The format supported by Test Case Importer is slightly different depending on whether you're using Xray cloud or Xray server/DC.
 
 This code is divided into two directories with multiple examples that supports two tutorials:
-- [./cloud](cloud) - If you are using the cloud version of Xray [Importing test cases using Text Case Importer](https://docs.getxray.app/display/XRAYCLOUD/Importing+test+cases+using+Test+Case+Importer) 
-- [./server](server) - If you are using the Server/DC version of Xray [Importing test cases using Text Case Importer](https://docs.getxray.app/display/XRAY/Importing+test+cases+using+Test+Case+Importer)
+- [./cloud](cloud) - If you are using the cloud version of Xray; detailed info in [Examples using Test Case Importer](https://docs.getxray.app/display/XRAYCLOUD/Examples+using+Test+Case+Importer) 
+- [./server](server) - If you are using the Server/DC version of Xray; detailed info in [Examples using Test Case Importer](https://docs.getxray.app/display/XRAY/Examples+using+Test+Case+Importer)
 
 
 ## Prerequisites
@@ -25,8 +25,11 @@ For Xray specific questions, please contact [Xray's support team](https://jira.g
 
 Xray Cloud:
 - [Importing Tests using Test Case Importer](https://docs.getxray.app/display/XRAYCLOUD/Importing+Tests+using+Test+Case+Importer)
-Xray serrver/DC:
+- [Tutorial showcasing some examples for Test Case Importer](https://docs.getxray.app/display/XRAYCLOUD/Examples+using+Test+Case+Importer)
+
+Xray server/DC:
 - [Importing test cases using Text Case Importer](https://docs.getxray.app/display/XRAY/Importing+test+cases+using+Test+Case+Importer)
+- [Tutorial showcasing some examples for Test Case Importer](https://docs.getxray.app/display/XRAY/Examples+using+Test+Case+Importer)
 
 
 ## LICENSE
